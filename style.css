@@ -1,0 +1,25 @@
+  
+        .bt1{
+            width: 145px;
+           height: 59px;
+           margin: 10%;
+           background-color: yellow;
+    border-radius: 15px;
+        }
+        .bt2{
+            width: 145px;
+    height: 59px;
+    margin: 10%;
+    background-color: steelblue;
+    border-radius: 15px;
+        }
+      h1{
+        color: black;
+    font-size: -webkit-xxx-large;
+    text-align: center;
+      }
+      h2{
+        color: chartreuse;
+       text-align: center;
+       font-size: -webkit-xxx-large;
+      }
